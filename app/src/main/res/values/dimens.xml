@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="margin_left_16">16dp</dimen>
+    <dimen name="margin_right_16">16dp</dimen>
+    <dimen name="margin_top_16">16dp</dimen>
+    <dimen name="margin_bottom_16">16dp</dimen>
+
+    <dimen name="margin_top_8">8dp</dimen>
+    <dimen name="margin_bottom_8">8dp</dimen>
+    <dimen name="margin_left_8">8dp</dimen>
+    <dimen name="margin_right_8">8dp</dimen>
+
+    <dimen name="radius_2">2dp</dimen>
+    <dimen name="radius_8">8dp</dimen>
+    <dimen name="radius_16">16dp</dimen>
+
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+
+    <dimen name="text_16">16dp</dimen>
+    <dimen name="text_14">14dp</dimen>
+    <dimen name="text_12">12dp</dimen>
+    <dimen name="text_18">18dp</dimen>
+    <dimen name="text_20">20dp</dimen>
+    <dimen name="text_22">22dp</dimen>
+    <dimen name="text_24">24dp</dimen>
+    <dimen name="text_26">26dp</dimen>
+
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="lineSpacingExtra_4">4dp</dimen>
+
+
+    <dimen name="viewportWidth">24.0</dimen>
+    <dimen name="viewportHeight">24.0</dimen>
+
+
+    <dimen name="vector_height">24dp</dimen>
+    <dimen name="vector_width">24dp</dimen>
+
+    <!--    <dimen name="design_bottom_navigation_text_size" tools:override="true">6dp</dimen>
+       <dimen name="design_bottom_navigation_active_text_size" tools:override="true">12dp</dimen>
+      <dimen name="design_bottom_navigation_height" tools:override="true">56dp</dimen>-->
+
+
+    <dimen name="design_bottom_navigation_item_max_width" tools:override="true">400dp</dimen>
+    <dimen name="design_bottom_navigation_active_item_max_width" tools:override="true">400dp</dimen>
+    <dimen name="bottom_navigation_icon" tools:override="true">4dp</dimen>
+    <dimen name="bottom_navigation_text_size_active" tools:override="true">12dp</dimen>
+    <dimen name="bottom_navigation_text_size_inactive" tools:override="true">8dp</dimen>
+    <dimen name="design_bottom_navigation_icon_size" tools:override="true">6dp</dimen>
+    <!--
+        bottom_navigation_elevation
+        bottom_navigation_height
+        bottom_navigation_icon
+        bottom_navigation_margin_bottom
+        bottom_navigation_margin_top_active
+        bottom_navigation_margin_top_inactive
+        bottom_navigation_max_width
+        bottom_navigation_min_width
+        bottom_navigation_notification_elevation
+        bottom_navigation_notification_height
+        bottom_navigation_notification_margin_left
+        bottom_navigation_notification_margin_left_active
+        bottom_navigation_notification_margin_top
+        bottom_navigation_notification_margin_top_active
+        bottom_navigation_notification_margin_top_classic
+        bottom_navigation_notification_padding
+        bottom_navigation_notification_radius
+        bottom_navigation_notification_text_size
+        bottom_navigation_notification_width
+        bottom_navigation_padding_left
+        bottom_navigation_padding_right
+        bottom_navigation_small_active_max_width
+        bottom_navigation_small_active_min_width
+        bottom_navigation_small_inactive_max_width
+        bottom_navigation_small_inactive_min_width
+        bottom_navigation_small_margin_bottom
+        bottom_navigation_small_margin_top
+        bottom_navigation_small_margin_top_active
+        bottom_navigation_small_selected_width_difference
+        bottom_navigation_text_size_active
+        bottom_navigation_text_size_forced_active
+        bottom_navigation_text_size_forced_inactive
+        bottom_navigation_text_size_inactive
+    -->
+
+</resources>
