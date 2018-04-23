@@ -40,7 +40,7 @@
                     android:layout_marginLeft="@dimen/margin_left_16"
                     android:layout_marginRight="@dimen/margin_right_16"
                     android:layout_marginTop="@dimen/margin_top_16"
-                    android:alpha=".7"
+                    android:alpha=".6"
                     android:background="@drawable/black_border_fade"
                     android:gravity="center"
                     android:orientation="vertical">
