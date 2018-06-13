@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout
-    android:id="@+id/screen_layout"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -75,7 +75,8 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="right|center"
-                            android:background="@drawable/button_style"
+
+                            android:background="@color/transparent"
                             android:text="Login"
                             android:textColor="@color/white"
                             android:textSize="@dimen/text_18" />
@@ -192,6 +193,7 @@
                         style="@style/Normal_Margin_Style"
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/dimen_1"
+                        android:layout_marginBottom="@dimen/margin_bottom_16"
                         android:background="@color/view_line" />
                     <!--Password Details-->
 
@@ -208,7 +210,7 @@
                     android:layout_marginBottom="@dimen/margin_bottom_16"
                     android:background="@drawable/button_style"
                     android:text="Join us"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/text_18" />
 
 
@@ -217,4 +219,4 @@
         </ScrollView>
 
     </RelativeLayout>
-</android.support.design.widget.CoordinatorLayout>
+</android.support.constraint.ConstraintLayout>
