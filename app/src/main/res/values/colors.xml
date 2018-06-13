@@ -26,7 +26,7 @@
     <color name="bg_color">#f7f7f7</color>
     <color name="black">#000000</color>
     <color name="gray">#656565</color>
-    <color name="white">#ffffff</color>
+    <color name="white">#FFFFFF</color>
     <color name="indigo_ink">#283655</color>
     <color name="black_effective">#2a2a2a</color>
     <color name="transparent">#00000000</color>

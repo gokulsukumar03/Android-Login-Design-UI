@@ -10,9 +10,16 @@
     <dimen name="margin_left_8">8dp</dimen>
     <dimen name="margin_right_8">8dp</dimen>
 
+    <dimen name="margin_top_4">4dp</dimen>
+    <dimen name="margin_bottom_4">4dp</dimen>
+    <dimen name="margin_left_4">4dp</dimen>
+    <dimen name="margin_right_4">4dp</dimen>
+
     <dimen name="radius_2">2dp</dimen>
     <dimen name="radius_8">8dp</dimen>
     <dimen name="radius_16">16dp</dimen>
+    <dimen name="radius_24">24dp</dimen>
+    <dimen name="radius_32">32dp</dimen>
 
     <dimen name="padding_1">1dp</dimen>
     <dimen name="padding_4">4dp</dimen>
