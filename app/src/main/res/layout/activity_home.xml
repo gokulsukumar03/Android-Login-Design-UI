@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_bg"
+    tools:context="com.login.logindesign.HomeActivity">
+
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/radius_8"
+    android:paddingLeft="@dimen/radius_8"
+    android:paddingBottom="@dimen/radius_8"
+    android:paddingRight="@dimen/radius_8"
+    android:src="@drawable/hamburger"/>
+
+</android.support.constraint.ConstraintLayout>
