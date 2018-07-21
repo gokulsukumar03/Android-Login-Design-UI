@@ -9,16 +9,16 @@
     </item>
 
     <item
-        android:top="-400dp"
+        android:top="-300dp"
         android:bottom="650dp"
         android:left="-100dp"
-        android:right="-100dp">
+        android:right="-20dp">
         <rotate
-            android:fromDegrees="175"
-            android:toDegrees="75"
+            android:fromDegrees="185"
+            android:toDegrees="85"
 
-            android:pivotX="21%"
-            android:pivotY="62%" >
+            android:pivotX="24%"
+            android:pivotY="65%" >
         <shape android:shape="oval">
             <solid android:color="@color/happy_orange"/>
         </shape>

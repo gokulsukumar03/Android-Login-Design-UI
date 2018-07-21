@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_backgorund">
+
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Happy Moment"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/white"
+        android:textSize="26dp"
+        android:textStyle="italic"
+        android:fontFamily="sans-serif-light"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/margin_bottom_16"
+        android:orientation="vertical">
+
+
+        <Button
+            style="@style/Font_family_regular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_top_8"
+            android:layout_marginBottom="@dimen/margin_top_8"
+            android:layout_marginLeft="@dimen/margin_right_16"
+            android:layout_marginRight="@dimen/margin_right_16"
+            android:background="@drawable/white_style"
+            android:text="Get started"
+            android:textColor="#7640EA"
+            android:textSize="@dimen/text_16" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
